@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af128ffa-2351-47df-9613-bc5dade08549" name="Default Changelist" comment="">
+    <list default="true" id="af128ffa-2351-47df-9613-bc5dade08549" name="Default Changelist" comment="增加网页图标">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/funny.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/funny.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/funny.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,16 +40,31 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../d-audio" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\博客\seldom1024.github.io\dev" />
+      <recent name="E:\博客\seldom1024.github.io" />
+      <recent name="E:\博客\seldom1024.github.io\js" />
+      <recent name="E:\博客\seldom1024.github.io\css" />
       <recent name="E:\博客\blog\js" />
-      <recent name="E:\博客\blog\css" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/seldom1024.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -58,6 +89,8 @@
       <option name="presentableId" value="Default" />
       <updated>1589034294760</updated>
       <workItem from="1589034299729" duration="3387000" />
+      <workItem from="1589041943858" duration="808000" />
+      <workItem from="1589075210163" duration="10947000" />
     </task>
     <task id="LOCAL-00001" summary="首页">
       <created>1589034409894</created>
@@ -121,10 +154,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="增加网页图标" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="8" key="CommitChangelistDialog2" timestamp="1589036973689">
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589076191278">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="372" y="8" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589036973689" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1589076191278" />
+    <state x="372" y="8" key="CommitChangelistDialog2" timestamp="1589085421199">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="372" y="8" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589085421199" />
+    <state x="147" y="71" key="DiffContextDialog" timestamp="1589085420257">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="147" y="71" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1589085420257" />
+    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1589078820995">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1589078820995" />
     <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1589036985851">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

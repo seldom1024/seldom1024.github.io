@@ -1,0 +1,67 @@
+#d-audio {
+    width: 5em;
+    top: 1em;
+    left: 1em;
+    position: absolute;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Inconsolata", monospace;
+    -webkit-font-feature-settings: 'liga' 0;
+    font-feature-settings: 'liga' 0;
+    font-size: 100%;
+    line-height: 1.6;
+    margin: 0;
+}
+
+@media (min-width: 20em) {
+    body {
+        font-size: 102.5%;
+    }
+}
+
+@media (min-width: 30em) {
+    body {
+        font-size: 105%;
+    }
+}
+
+@media (min-width: 54em) {
+    body {
+        font-size: 107.5%;
+    }
+}
+
+@media (min-width: 64em) {
+    body {
+        font-size: 110%;
+    }
+}
+
+@media (min-width: 76.5em) {
+    body {
+        font-size: 115%;
+    }
+}
+
+@media (min-width: 114em) {
+    body {
+        font-size: 125%;
+    }
+}
+
+.bg {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://w.wallhaven.cc/full/lm/wallhaven-lmpv7p.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    opacity: 0.8;
+}

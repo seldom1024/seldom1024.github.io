@@ -2,6 +2,22 @@
  * Base Variables
  */
 
+/**
+add
+ */
+.mya {
+    color: #ffffff;
+    text-decoration: none;
+    -webkit-transition: color 0.4s ease-in-out;
+    transition: color 0.4s ease-in-out;
+}
+
+.mya:hover,
+.mya:active,
+.mya:focus {
+    color: #9f8f68;
+}
+
 
 /**
  * Base Settings/Overwrite Normalize

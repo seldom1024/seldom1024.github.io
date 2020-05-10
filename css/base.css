@@ -1,9 +1,6 @@
-#d-audio {
-    width: 5em;
-    top: 1em;
-    left: 1em;
-    position: fixed;
-}
+/**
+ * Base Settings/Overwrite Normalize
+ */
 
 *,
 *:before,
@@ -56,12 +53,47 @@ body {
     }
 }
 
-.bg {
-    position: fixed;
-    width: 100vw;
-    height: 100vh;
-    background-image: url("https://w.wallhaven.cc/full/lm/wallhaven-lmpv7p.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    opacity: 0.8;
+h1,
+h2 {
+    margin: 0;
+    font-family: "Space Mono", monospace;
+}
+
+@media (min-width: 54em) {
+    h1 {
+        font-size: 3em;
+    }
+}
+
+@media (min-width: 76.5em) {
+    h1 {
+        font-size: 3.5em;
+    }
+}
+
+p {
+    margin: 0 0 0.75em;
+}
+
+a {
+    color: #0a0a0a;
+    text-decoration: none;
+    -webkit-transition: color 0.4s ease-in-out;
+    transition: color 0.4s ease-in-out;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: #9f8f68;
+}
+
+figure {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
 }
